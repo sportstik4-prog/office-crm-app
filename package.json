@@ -1,6 +1,5 @@
 {
   "name": "@figma/my-make-file",
-  "homepage": "/crm",
   "private": true,
   "version": "0.0.1",
   "type": "module",
